@@ -24,4 +24,5 @@ There are following command for bot:
 4. /searchsploit — Searches for exploits in exploit-db by name.
 # Contacts:
 @LaRevoltage — Telegram
-@evoltage#2077 — Discord
+
+@Revoltage#2077 — Discord
