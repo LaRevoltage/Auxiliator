@@ -18,9 +18,9 @@ To set up the bot, you need to:
 3. Run Auxiliator.py
 4. Use the bot!
 There are following command for bot:
-1. /searchbyip IP — Gets information from search.censys.io about the IP.
-2. /searchbydomain DOMAIN — Searches for IPS by given domain, can be usefull when site is behind WAF.
-3. /scan IP/DOMAIN — Scan targets for opened ports, by default it scans from port 1, to 65535 with 5000 threads, you should test diffrent numbers of threads to get fastest scan time on your server.
+/searchbyip IP — Gets information from search.censys.io about the IP.
+/searchbydomain DOMAIN — Searches for IPS by given domain, can be usefull when site is behind WAF.
+/scan IP/DOMAIN — Scan targets for opened ports, by default it scans from port 1, to 65535 with 5000 threads, you should test diffrent numbers of threads to get fastest scan time on your server.
 4. /searchsploit — Searches for exploits in exploit-db by name.
 # Contacts:
 @LaRevoltage — Telegram
