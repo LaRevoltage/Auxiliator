@@ -1,6 +1,7 @@
 # Auxiliator
 Auxiliator is telegram bot for basic web-application analysis
 # What for?
+This is my old learning project, so not something very useful, but I did this for following reason:
 Sometimes there is no access to your main PC, where you can scan web-site and search for exploits, and you only have for e.g your phone.
 Some people would say, that you can just connect with ssh, but is is not really easy to type on small screen.
 That is why, i created this telegram bot, where it is simpler to analyse the website for further testing.
